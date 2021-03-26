@@ -23,8 +23,7 @@ programa {
 		limpa()
 		
 		media = (N1 + N2 + N2 + N3 + N4) / 4
-
-	limpa()
+limpa()
 		
 		se (media >= 7) {
 			res = "Aprovado\n"
