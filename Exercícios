@@ -10,7 +10,7 @@
 
 6. Faça um programa que leia dois valores e exiba uma das três mensagens a seguir: ‘Números iguais’, caso os números sejam iguais ‘Primeiro é maior’, caso o primeiro seja maior que o segundo; ‘Segundo maior’, caso o segundo seja maior que o primeiro.
 
-7. Faça um programa que exiba os números de 1 (inclusive) a 10 (inclusive) em ordem crescente
+7. Faça um programa que exiba os números de 1 (inclusive) a 10 (inclusive) em ordem crescente.
 
 8. Faça um programa que exiba os números de 1 (inclusive) a 10 (inclusive) em ordem decrescente.
 
@@ -27,7 +27,9 @@
 16. Reescreva o código abaixo como um programa do Portugol.
 
 17. Reescreva o código abaixo como um programa do Portugol.
+
 18. A Wesley Peças Automotivas calcula o preço de venda dos seus produtos com uma margem de aumento x%. Portanto, construa um algoritmo em Portugol que, dados o valor de custo e a margem de aumento, imprima o preço de venda. O usuário deve informar tanto o valor do produto quanto a margem de lucro
+
 19. Reescreva o código abaixo como um programa do Portugol.
 
 
